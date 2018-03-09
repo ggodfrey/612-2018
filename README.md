@@ -1,5 +1,5 @@
 # 612-2018
-Chantilly Robotics Team 612 robot code repository for 2018 game FIRST POWER UP [![Build Status](https://travis-ci.org/Team612/612-2018.svg?branch=master)](https://travis-ci.org/Team612/612-2018)
+Chantilly Robotics Team 612 robot code repository for 2018 game FIRST POWER UP [![Build Status](https://travis-ci.org/ggodfrey/612-2018.svg?branch=master)](https://travis-ci.org/ggodfrey/612-2018)
 
 |Member                                   |Username         |
 |-----------------------------------------|-----------------|
